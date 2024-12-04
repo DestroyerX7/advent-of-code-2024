@@ -1,5 +1,7 @@
 ﻿using System;
 using System.IO;
+using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace day_three;
 
@@ -8,8 +10,10 @@ public class Program
     private static void Main(string[] args)
     {
         string[] input = File.ReadAllLines("D:/VS Code Projects/advent-of-code-2024/day-three/input.txt");
-        PartOne(input);
-        PartTwo(input);
+        // PartOne(input);
+        // PartTwo(input);
+        PartOneUsingRegex(input);
+        PartTwoUsingRegex(input);
     }
 
     private static void PartOne(string[] input)
@@ -173,5 +177,62 @@ public class Program
         }
 
         Console.WriteLine("Part Two : " + sum);
+    }
+
+    // Learned a little bit of regex and refactored it which made it so much easier.
+    private static void PartOneUsingRegex(string[] input)
+    {
+        string pattern = @"mul\((\d+),(\d+)\)";
+        Regex regex = new(pattern);
+
+        int sum = 0;
+
+        foreach (string line in input)
+        {
+            MatchCollection matches = regex.Matches(line);
+
+            foreach (Match match in matches)
+            {
+                int numOne = int.Parse(match.Groups[1].Value);
+                int numTwo = int.Parse(match.Groups[2].Value);
+                sum += numOne * numTwo;
+            }
+        }
+
+        Console.WriteLine("Part One Using Regex : " + sum);
+    }
+
+    private static void PartTwoUsingRegex(string[] input)
+    {
+        string pattern = @"mul\((\d+),(\d+)\)|do\(\)|don't\(\)";
+        Regex regex = new(pattern);
+
+        int sum = 0;
+        bool enabled = true;
+
+        foreach (string line in input)
+        {
+            MatchCollection matches = regex.Matches(line);
+
+            foreach (Match match in matches)
+            {
+                if (match.Value == "do()")
+                {
+                    enabled = true;
+                }
+                else if (match.Value == "don't()")
+                {
+                    enabled = false;
+                }
+                else if (enabled)
+                {
+                    int numOne = int.Parse(match.Groups[1].Value);
+                    int numTwo = int.Parse(match.Groups[2].Value);
+                    sum += numOne * numTwo;
+                }
+            }
+        }
+
+        Console.WriteLine("Part Two Using Regex : " + sum);
     }
 }
