@@ -1,0 +1,14 @@
+d:\VS Code Projects\advent-of-code-2024\day-seven\bin\Debug\net7.0\day-seven.exe
+d:\VS Code Projects\advent-of-code-2024\day-seven\bin\Debug\net7.0\day-seven.deps.json
+d:\VS Code Projects\advent-of-code-2024\day-seven\bin\Debug\net7.0\day-seven.runtimeconfig.json
+d:\VS Code Projects\advent-of-code-2024\day-seven\bin\Debug\net7.0\day-seven.dll
+d:\VS Code Projects\advent-of-code-2024\day-seven\bin\Debug\net7.0\day-seven.pdb
+d:\VS Code Projects\advent-of-code-2024\day-seven\obj\Debug\net7.0\day-seven.GeneratedMSBuildEditorConfig.editorconfig
+d:\VS Code Projects\advent-of-code-2024\day-seven\obj\Debug\net7.0\day-seven.AssemblyInfoInputs.cache
+d:\VS Code Projects\advent-of-code-2024\day-seven\obj\Debug\net7.0\day-seven.AssemblyInfo.cs
+d:\VS Code Projects\advent-of-code-2024\day-seven\obj\Debug\net7.0\day-seven.csproj.CoreCompileInputs.cache
+d:\VS Code Projects\advent-of-code-2024\day-seven\obj\Debug\net7.0\day-seven.dll
+d:\VS Code Projects\advent-of-code-2024\day-seven\obj\Debug\net7.0\refint\day-seven.dll
+d:\VS Code Projects\advent-of-code-2024\day-seven\obj\Debug\net7.0\day-seven.pdb
+d:\VS Code Projects\advent-of-code-2024\day-seven\obj\Debug\net7.0\day-seven.genruntimeconfig.cache
+d:\VS Code Projects\advent-of-code-2024\day-seven\obj\Debug\net7.0\ref\day-seven.dll

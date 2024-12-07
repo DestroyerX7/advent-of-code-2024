@@ -119,11 +119,3 @@ public class Grid
         direction[1] = -oldX;
     }
 }
-
-public enum Direction
-{
-    Up,
-    Down,
-    Left,
-    Right,
-}

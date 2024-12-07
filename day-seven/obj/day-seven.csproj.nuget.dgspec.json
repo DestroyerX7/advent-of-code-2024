@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS Code Projects\\advent-of-code-2024\\day-six\\day-six.csproj": {}
+    "d:\\VS Code Projects\\advent-of-code-2024\\day-seven\\day-seven.csproj": {}
   },
   "projects": {
-    "D:\\VS Code Projects\\advent-of-code-2024\\day-six\\day-six.csproj": {
+    "d:\\VS Code Projects\\advent-of-code-2024\\day-seven\\day-seven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS Code Projects\\advent-of-code-2024\\day-six\\day-six.csproj",
-        "projectName": "day-six",
-        "projectPath": "D:\\VS Code Projects\\advent-of-code-2024\\day-six\\day-six.csproj",
+        "projectUniqueName": "d:\\VS Code Projects\\advent-of-code-2024\\day-seven\\day-seven.csproj",
+        "projectName": "day-seven",
+        "projectPath": "d:\\VS Code Projects\\advent-of-code-2024\\day-seven\\day-seven.csproj",
         "packagesPath": "C:\\Users\\Bojer\\.nuget\\packages\\",
-        "outputPath": "D:\\VS Code Projects\\advent-of-code-2024\\day-six\\obj\\",
+        "outputPath": "d:\\VS Code Projects\\advent-of-code-2024\\day-seven\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bojer\\AppData\\Roaming\\NuGet\\NuGet.Config"
