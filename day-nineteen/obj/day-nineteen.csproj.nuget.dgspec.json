@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS Code Projects\\advent-of-code-2024\\day-eighteen\\day-eighteen.csproj": {}
+    "d:\\VS Code Projects\\advent-of-code-2024\\day-nineteen\\day-nineteen.csproj": {}
   },
   "projects": {
-    "D:\\VS Code Projects\\advent-of-code-2024\\day-eighteen\\day-eighteen.csproj": {
+    "d:\\VS Code Projects\\advent-of-code-2024\\day-nineteen\\day-nineteen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS Code Projects\\advent-of-code-2024\\day-eighteen\\day-eighteen.csproj",
-        "projectName": "day-eighteen",
-        "projectPath": "D:\\VS Code Projects\\advent-of-code-2024\\day-eighteen\\day-eighteen.csproj",
+        "projectUniqueName": "d:\\VS Code Projects\\advent-of-code-2024\\day-nineteen\\day-nineteen.csproj",
+        "projectName": "day-nineteen",
+        "projectPath": "d:\\VS Code Projects\\advent-of-code-2024\\day-nineteen\\day-nineteen.csproj",
         "packagesPath": "C:\\Users\\Bojer\\.nuget\\packages\\",
-        "outputPath": "D:\\VS Code Projects\\advent-of-code-2024\\day-eighteen\\obj\\",
+        "outputPath": "d:\\VS Code Projects\\advent-of-code-2024\\day-nineteen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bojer\\AppData\\Roaming\\NuGet\\NuGet.Config"
