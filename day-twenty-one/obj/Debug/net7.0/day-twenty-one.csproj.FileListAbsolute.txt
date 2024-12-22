@@ -1,0 +1,14 @@
+d:\VS Code Projects\advent-of-code-2024\day-twenty-one\bin\Debug\net7.0\day-twenty-one.exe
+d:\VS Code Projects\advent-of-code-2024\day-twenty-one\bin\Debug\net7.0\day-twenty-one.deps.json
+d:\VS Code Projects\advent-of-code-2024\day-twenty-one\bin\Debug\net7.0\day-twenty-one.runtimeconfig.json
+d:\VS Code Projects\advent-of-code-2024\day-twenty-one\bin\Debug\net7.0\day-twenty-one.dll
+d:\VS Code Projects\advent-of-code-2024\day-twenty-one\bin\Debug\net7.0\day-twenty-one.pdb
+d:\VS Code Projects\advent-of-code-2024\day-twenty-one\obj\Debug\net7.0\day-twenty-one.GeneratedMSBuildEditorConfig.editorconfig
+d:\VS Code Projects\advent-of-code-2024\day-twenty-one\obj\Debug\net7.0\day-twenty-one.AssemblyInfoInputs.cache
+d:\VS Code Projects\advent-of-code-2024\day-twenty-one\obj\Debug\net7.0\day-twenty-one.AssemblyInfo.cs
+d:\VS Code Projects\advent-of-code-2024\day-twenty-one\obj\Debug\net7.0\day-twenty-one.csproj.CoreCompileInputs.cache
+d:\VS Code Projects\advent-of-code-2024\day-twenty-one\obj\Debug\net7.0\day-twenty-one.dll
+d:\VS Code Projects\advent-of-code-2024\day-twenty-one\obj\Debug\net7.0\refint\day-twenty-one.dll
+d:\VS Code Projects\advent-of-code-2024\day-twenty-one\obj\Debug\net7.0\day-twenty-one.pdb
+d:\VS Code Projects\advent-of-code-2024\day-twenty-one\obj\Debug\net7.0\day-twenty-one.genruntimeconfig.cache
+d:\VS Code Projects\advent-of-code-2024\day-twenty-one\obj\Debug\net7.0\ref\day-twenty-one.dll

@@ -76,4 +76,6 @@ public class Program
 
         return totalNumWays;
     }
+
+    // Given a design and a list of patterns, returns the number of ways the design can be constructed using the patterns
 }
