@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS Code Projects\\advent-of-code-2024\\day-twenty-two\\day-twenty-two.csproj": {}
+    "d:\\VS Code Projects\\advent-of-code-2024\\day-twenty-three\\day-twenty-three.csproj": {}
   },
   "projects": {
-    "D:\\VS Code Projects\\advent-of-code-2024\\day-twenty-two\\day-twenty-two.csproj": {
+    "d:\\VS Code Projects\\advent-of-code-2024\\day-twenty-three\\day-twenty-three.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS Code Projects\\advent-of-code-2024\\day-twenty-two\\day-twenty-two.csproj",
-        "projectName": "day-twenty-two",
-        "projectPath": "D:\\VS Code Projects\\advent-of-code-2024\\day-twenty-two\\day-twenty-two.csproj",
+        "projectUniqueName": "d:\\VS Code Projects\\advent-of-code-2024\\day-twenty-three\\day-twenty-three.csproj",
+        "projectName": "day-twenty-three",
+        "projectPath": "d:\\VS Code Projects\\advent-of-code-2024\\day-twenty-three\\day-twenty-three.csproj",
         "packagesPath": "C:\\Users\\Bojer\\.nuget\\packages\\",
-        "outputPath": "D:\\VS Code Projects\\advent-of-code-2024\\day-twenty-two\\obj\\",
+        "outputPath": "d:\\VS Code Projects\\advent-of-code-2024\\day-twenty-three\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bojer\\AppData\\Roaming\\NuGet\\NuGet.Config"

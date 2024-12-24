@@ -59,11 +59,11 @@ public class Program
         {
             long numBananas = 0;
 
-            foreach (Dictionary<string, int> dictionary in sequenceToSellPrices)
+            foreach (Dictionary<string, int> sequenceToSellPrice in sequenceToSellPrices)
             {
-                if (dictionary.ContainsKey(sequence))
+                if (sequenceToSellPrice.ContainsKey(sequence))
                 {
-                    numBananas += dictionary[sequence];
+                    numBananas += sequenceToSellPrice[sequence];
                 }
             }
 
